@@ -2,7 +2,7 @@
 ## Charles_HW_1
 Настроить сниффинг трафика на Android.
 ________________________________________________________________________________
-## **Charles HW_2** [ссылка]()
+## **Charles HW_2** [HW_Charles Settings.chls](https://github.com/nlinky/Charles-Fiddler/blob/main/HW_Charles%20Settings.chls)
 + Ex_0: Сфокусироваться на ниже перечисленных запросах
 ```
 Protocol: http
@@ -155,7 +155,7 @@ Task:
 1. Сделать через Charles так, чтобы в Postman вернулся ответ, в котором qa_salary_after_1.5_year переименовано в qa_salary_after_1.5_month
 2. Сделать так чтобы qa_salary_after_3.5_years было меньше qa_salary_after_12_months в response
 ________________________________________________________________________________
-## **Fiddler HomeWork** [ссылка]()
+## **Fiddler HomeWork** [HW_Fiddler Everywhere_Rules.farx](https://github.com/nlinky/Charles-Fiddler/blob/main/HW_Fiddler%20Everywhere_Rules.farx)
 
 + Ex_0: Отфильтровать выдачу запросов по нужному ip
 ```
